@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pmehak928@gmail.com**
 
-- ⚡ Fun fact **I love to story books**
+- ⚡ Fun fact **I love to read story books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
