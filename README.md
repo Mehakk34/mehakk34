@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **graphic designing**
 
-- 👨‍💻 All of my projects are available at [mehakpreet.netlify.com](mehakpreet.netlify.com)
+- 👨‍💻 All of my projects are available at [mehakpreet.netlify.com](mehakpreet.netlify.app)
 
 - 💬 Ask me about **Front-end designing**
 
